@@ -1,4 +1,5 @@
-# <p style="font-family: 'Arial', sans-serif; color: #00FEFB;">Benvenuto nel mio GitHub! 👋</p>
+# <p style="font-family: 'Arial', sans-serif; color: #00FEFB; font-size: 50px;">Benvenuto nel mio GitHub! 👋</p>
+
 
 <!--
 **RoccoCerro/RoccoCerro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
