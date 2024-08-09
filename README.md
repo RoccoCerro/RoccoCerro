@@ -1,6 +1,6 @@
-# <p style="font-family: 'Arial', sans-serif; color: #00FEFB; font-size: 50px;">Benvenuto nel mio GitHub! 👋</p>
+# Benvenuto nel mio GitHub! 👋
 
-<span style="color: red;">Questo testo è rosso</span>
+![Rocco Cerro (3)](https://github.com/user-attachments/assets/5f71655c-0ab8-49d0-8a78-1a6ad2789f5b)
 
 
 <!--
